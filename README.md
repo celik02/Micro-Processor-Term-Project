@@ -4,4 +4,4 @@ This repository contains my term project for EE447 Introduction to Microprocesso
 Brief explanation for the project can be found in the EE447_ProjectReport pdf file.
 
 
-![alt text](https://github.com/[celik02]/[Micro-Processor-Term-Project]/blob/[main]/PinAssignment.jpg?raw=true)
+![Pin Assignments](https://github.com/celik02/Micro-Processor-Term-Project/blob/main/PinAssignments.png?raw=true)
