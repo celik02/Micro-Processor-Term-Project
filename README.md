@@ -7,4 +7,5 @@ Brief explanation for the project can be found in the EE447_ProjectReport pdf fi
 ![Pin Assignments](https://github.com/celik02/Micro-Processor-Term-Project/blob/main/PinAssignments.png?raw=true)
 
 
-<embed src="https://github.com/celik02/Micro-Processor-Term-Project/blob/main/EE447_ProjectReport.pdf" type="application/pdf">
+Detailed explanation of the solution: https://github.com/celik02/Micro-Processor-Term-Project/blob/main/EE447_ProjectReport.pdf
+
